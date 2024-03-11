@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fkl3XdZ8zrSnZMw9hWxjUdZYIxKQBd36frDZoY7QFLNeaglrkAQq9KzH7XQ8ES9ym9N3sYkzj8AuXQ4hjEMFEA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\honzanugeta\\source\\repos\\Poznamky\\Poznamky.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\honzanugeta\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
